@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<mvc:View controllerName="mycomp.view.S2" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
-    <Page id="page1" enableScrolling="false">
-    </Page>
-</mvc:View>
